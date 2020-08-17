@@ -29,8 +29,10 @@ Shortly Explain, Electrodes read and write brain data. Neuralink is designing it
 🔴Next Project - Data Analysis with Data Visualization along with Machine Learning Basic Algorithms from Scratch. Dashboard with Plotly Dash will Build for Data Visualization.
 
 ### The More You Analyze, the More You Get Insights from the Data.
+
 <br />
-### Connect with us:
+
+Connect with us:
 
 [<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 [<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/CrewFreebirds)
