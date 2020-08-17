@@ -9,6 +9,7 @@ We Learn and Grow Together.
 1. Treating brain disorders and helping people who had accidents.
 2. Creating a brain-machine interface.
 3. Building toward a potential symbiosis with artificial intelligence. 
+
 The first of those Goals is the most Realistic in the Short-Term.
 Musk's Neurallink is hoping to help solve major neurological issues. 
 
@@ -20,8 +21,10 @@ Shortly Explain, Electrodes read and write brain data. Neuralink is designing it
 ### Watch the Full Video to Feel the Futurist View of Technology and Science.
 
 **Follow me on Instagram and Facebook to get Updates on Projects and Ideas that We are Working On !!
-Instagram - https://bit.ly/3jLR8vY
-Telegram - https://bit.ly/30bstcE
+
+**Instagram - https://bit.ly/3jLR8vY
+
+**Telegram - https://bit.ly/30bstcE
 
 🔴Next Project - Data Analysis with Data Visualization along with Machine Learning Basic Algorithms from Scratch. Dashboard with Plotly Dash will Build for Data Visualization.
 
