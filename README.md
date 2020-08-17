@@ -20,15 +20,15 @@ Shortly Explain, Electrodes read and write brain data. Neuralink is designing it
 
 ### Watch the Full Video to Feel the Futurist View of Technology and Science.
 
-**Follow me on Instagram and Facebook to get Updates on Projects and Ideas that We are Working On !!
+#### Follow me on Instagram and Facebook to get Updates on Projects and Ideas that We are Working On !!
 
-**Instagram - https://bit.ly/3jLR8vY
+#### Instagram - https://bit.ly/3jLR8vY
 
-**Telegram - https://bit.ly/30bstcE
+#### Telegram - https://bit.ly/30bstcE
 
 🔴Next Project - Data Analysis with Data Visualization along with Machine Learning Basic Algorithms from Scratch. Dashboard with Plotly Dash will Build for Data Visualization.
 
-**The More You Analyze, the More You Get Insights from the Data.
+### The More You Analyze, the More You Get Insights from the Data.
 <br />
 ### Connect with us:
 
